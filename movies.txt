@@ -1,0 +1,80 @@
+
+Movie Search Log-----------------------
+
+Title: The Departed
+
+Year: 2006
+
+IMDB Rating: 8.5
+
+Rotten Tomatoes: 8.5/10
+
+Country: USA
+
+Language: English, Cantonese
+
+Plot: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+
+Actors: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Tucker and Dale vs Evil
+
+Year: 2010
+
+IMDB Rating: 7.5
+
+Rotten Tomatoes: 7.5/10
+
+Country: Canada
+
+Language: English
+
+Plot: Affable hillbillies Tucker and Dale are on vacation at their dilapidated mountain cabin when they are mistaken for murderers by a group of preppy college students.
+
+Actors: Tyler Labine, Alan Tudyk, Katrina Bowden, Jesse Moss
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Silverado
+
+Year: 1985
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes: 7.2/10
+
+Country: USA
+
+Language: English
+
+Plot: A misfit bunch of friends come together to right the injustices which exist in a small town.
+
+Actors: Kevin Kline, Scott Glenn, Kevin Costner, Danny Glover
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: 3:10 to Yuma
+
+Year: 2007
+
+IMDB Rating: 7.7
+
+Rotten Tomatoes: 7.7/10
+
+Country: USA
+
+Language: English, Chinese
+
+Plot: A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.
+
+Actors: Russell Crowe, Christian Bale, Logan Lerman, Dallas Roberts
+
+---------------------------------------
