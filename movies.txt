@@ -78,3 +78,83 @@ Plot: A small-time rancher agrees to hold a captured outlaw who's awaiting a tra
 Actors: Russell Crowe, Christian Bale, Logan Lerman, Dallas Roberts
 
 ---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Shutter Island
+
+Year: 2010
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 8.1/10
+
+Country: USA
+
+Language: English, German
+
+Plot: In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.
+
+Actors: Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Hocus Pocus
+
+Year: 1993
+
+IMDB Rating: 6.8
+
+Rotten Tomatoes: 6.8/10
+
+Country: USA
+
+Language: English, French
+
+Plot: A curious youngster moves to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.
+
+Actors: Bette Midler, Sarah Jessica Parker, Kathy Najimy, Omri Katz
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+
+Year: 2011
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes: 8.1/10
+
+Country: USA, UK
+
+Language: English
+
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Title: Titanic
+
+Year: 1997
+
+IMDB Rating: 7.8
+
+Rotten Tomatoes: 7.8/10
+
+Country: USA
+
+Language: English, Swedish, Italian
+
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+---------------------------------------

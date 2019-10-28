@@ -28,3 +28,33 @@ Venue Location: Antwerpen,  Belgium
 Date of Event: 11/19/2020, 6:30 PM
 
 ---------------------------------------
+
+Concert Search Log-----------------------
+
+Name of Venue: Neyland Stadium
+
+Venue Location: Knoxville, TN United States
+
+Date of Event: 11/16/2020, 7:00 PM
+
+---------------------------------------
+
+Concert Search Log-----------------------
+
+Name of Venue: Ventura Theatre
+
+Venue Location: Ventura, CA United States
+
+Date of Event: 11/07/2020, 7:00 PM
+
+---------------------------------------
+
+Concert Search Log-----------------------
+
+Name of Venue: Good Things 2019, Melbourne
+
+Venue Location: Melbourne,  Australia
+
+Date of Event: 12/06/2020, 7:00 PM
+
+---------------------------------------
